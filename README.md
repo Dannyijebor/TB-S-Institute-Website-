@@ -18,7 +18,9 @@ This project is designed to **set the standard for modern e-learning platforms**
 ### **1️⃣ Engaging Homepage**  
 ✔ **AI-Generated Banner Images** showcasing the institute’s futuristic campus and learning environment.  
 ✔ **Smooth Scrolling & Animations** for a modern and engaging user experience.  
-✔ **Call-to-Action Buttons** to quickly guide users to explore courses and enroll.  
+✔ **Call-to-Action Buttons** to quickly guide users to explore courses and enroll. 
+[screenshot](file:///C:/Users/ijebo/Downloads/Screenshot%202025-03-09%20225159.png) 
+
 
 
 ---
@@ -27,7 +29,8 @@ This project is designed to **set the standard for modern e-learning platforms**
 ✔ **Diverse Course Offerings** in AI, UI/UX, Cybersecurity, and more.  
 ✔ **Interactive Course Cards** with AI-generated images for an immersive feel.  
 ✔ **Dynamic Course Descriptions** providing insights into what students will learn.  
-
+[screenshot](file:///C:/Users/ijebo/Downloads/Screenshot%202025-03-09%20225223.png)
+[screenshot](file:///C:/Users/ijebo/Downloads/Screenshot%202025-03-09%20225248.png)
 
 ---
 
